@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "name": "Arc",
+      "link": "https://arc.net/",
+      "logo": "SvgoArcColor"
+    },
+    {
+      "name": "Next.js",
+      "link": "https://nextjs.org/",
+      "logo": "SvgoNext"
+    },
+    {
+      "name": "Vercel",
+      "link": "https://vercel.com/",
+      "logo": "SvgoVercel"
+    },
+    {
+      "name": "Github",
+      "link": "https://github.com",
+      "logo": "SvgoGithub"
+    },
+    {
+      "name": "Instagram",
+      "link": "https://instagram.com/",
+      "logo": "SvgoInstagramColor"
+    },
+    {
+      "name": "Spotify",
+      "link": "https://spotify.com/",
+      "logo": "SvgoSpotifyColor"
+    },
+    {
+      "name": "CloudFlare Warp",
+      "link": "https://one.one.one.one/",
+      "logo": "SvgoWarp"
+    },
+    {
+      "name": "Youtube",
+      "link": "https://youtube.com/",
+      "logo": "SvgoYoutube"
+    },
+    {
+      "name": "Slack",
+      "link": "https://slack.com/",
+      "logo": "SvgoSlack"
+    },
+    {
+      "name": "VS Code",
+      "link": "https://code.visualstudio.com/",
+      "logo": "SvgoVscodeColor"
+    },
+    {
+      "name": "Termius",
+      "link": "https://termius.com/",
+      "logo": "SvgoTermius"
+    },
+    {
+      "name": "TailwindCSS",
+      "link": "https://tailwindcss.com/",
+      "logo": "SvgoTailwindColor"
+    },
+    {
+      "name": "Notion",
+      "link": "https://www.notion.so/",
+      "logo": "SvgoNotionColor"
+    },
+    {
+      "name": "1Password",
+      "link": "https://1password.com/",
+      "logo": "SvgoOnepasswordColor"
+    },
+    {
+      "name": "ChatGPT",
+      "link": "https://chat.openai.com/",
+      "logo": "SvgoOpenai"
+    },
+    {
+      "name": "Figma",
+      "link": "https://figma.com/",
+      "logo": "SvgoFigmaColor"
+    }
+  ]
+}

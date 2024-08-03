@@ -1,0 +1,48 @@
+{
+  "title": "FAQ",
+  "subtitle": "Things I get asked a lot",
+  "faqQuestions": [
+    {
+      "title": "Personal",
+      "questions": [
+        {
+          "title": "What are your favorite TV shows ?",
+          "answer": "I'm a good sponge for Netflix. My all time favorites must be Stranger Things, Money Heist, Cobra Kai, Sabrina, and many more. I am still a huge fan of Stranger Things and I can't wait for the next season."
+        },
+        {
+          "title": "What are your favorite hobbies ?",
+          "answer": "I love to listen to music, watch movies, get some knowledge from YouTube."
+        },
+        {
+          "title": "What are your favorite books ?",
+          "answer": "I don't usually read books, but I love to read articles and watch documentaries. History and Science interest me a great deal. I am still heavily interested in the history of the world wars. The story of Chernobyl and Fukushima is something I am very interested in. I could probably explain the whole event in 2 hours."
+        },
+        {
+          "title": "What are your favorite games ?",
+          "answer": "My absolute favorite games are Spiderman Remastered and Spiderman Miles Morales. I am a huge fan of the Spiderman series. My second favorite would be Detroit: Become Human. I also love the COD franchise."
+        },
+        {
+          "title": "What are your favorite movies ?",
+          "answer": "Ah, tough one. It'd probably be something from Christopher Nolan. I love Inception, Interstellar, Oppenheimer and Dunkirk. I watch a great deal of movies, some of which are just random, while some are critically acclaimed. I love to watch movies that make me think about the world and the universe. "
+        },
+        {
+          "title": "Where can I find you ?",
+          "answer": "You would usually find me in Hack Club Slack, Discord, or Instagram. I am very active on these platforms."
+        }
+      ]
+    },
+    {
+      "title": "Technical",
+      "questions": [
+        {
+          "title": "What's your favorite tech stack ?",
+          "answer": "I love to work with React, Next.js, and Tailwind CSS. I am also a huge fan of Vercel. I love to work with these technologies because they are very easy to use and they are very powerful."
+        },
+        {
+          "title": "Do you freelance ?",
+          "answer": "Yeah, I do freelance. I have worked with clients in the past and I am always looking for new opportunities. If you have a project in mind, feel free to reach out to me."
+        }
+      ]
+    }
+  ]
+}
