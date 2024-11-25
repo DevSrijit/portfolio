@@ -7,10 +7,11 @@ export default defineAppConfig({
   twitterUsername: '@cheeseblock011',
   openGraphImage: 'https://cloud-fx6bgjeux-hack-club-bot.vercel.app/0portfolio.png',
   socials: {
-    github: 'https://github.com/DevSrijit',
-    twitter: 'https://twitter.com/cheeseblock011',
-    linkedin: 'https://www.linkedin.com/in/DevSrijit',
     instagram: 'https://www.instagram.com/cheeseblock011',
+    github: 'https://github.com/DevSrijit',
+    threads: 'https://threads.net/cheeseblock011',
+    linkedin: 'https://www.linkedin.com/in/DevSrijit',
+    twitter: 'https://twitter.com/cheeseblock011',
     spotify: 'https://open.spotify.com/user/31x7pj57ad5xav7b47q5mk6mctwu',
   },
   ui: {
