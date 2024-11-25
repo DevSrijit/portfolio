@@ -52,7 +52,7 @@ useHead({
     },
     {
       name: 'language',
-      content: 'English',
+      content: 'en',
     },
     {
       name: 'author',
